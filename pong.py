@@ -1,5 +1,6 @@
 import turtle
 
+#hurrdurr
 wn = turtle.Screen()
 wn.title("Pong by Terv")
 wn.bgcolor("black")
